@@ -1,0 +1,144 @@
+2025-05-28T19:02:46.544Z - User: N/A - Status: INFO - Action: Client connected from ::1:6472 
+2025-05-28T19:02:46.562Z - User: N/A - Status: ERROR - Action: Socket error: write ECONNABORTED 
+2025-05-28T19:02:46.560Z - User: N/A - Status: FAILURE - Action: Unknown command: GET / HTTP/1.1
+Host: localhost:3000
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="136", "Google Chrome";v="136", "Not.A/Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+Sec-Purpose: prefetch;prerender
+Purpose: prefetch
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-US,en;q=0.9
+If-None-Match: W/"270d-1970c73a065"
+If-Modified-Since: Mon, 26 May 2025 11:56:33 GMT 
+2025-05-28T19:02:47.715Z - User: N/A - Status: INFO - Action: Client connected from ::1:6474 
+2025-05-28T19:02:47.718Z - User: N/A - Status: FAILURE - Action: Unknown command: GET / HTTP/1.1
+Host: localhost:3000
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="136", "Google Chrome";v="136", "Not.A/Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-US,en;q=0.9
+If-None-Match: W/"270d-1970c73a065"
+If-Modified-Since: Mon, 26 May 2025 11:56:33 GMT 
+2025-05-28T19:02:47.720Z - User: N/A - Status: ERROR - Action: Socket error: read ECONNRESET 
+2025-05-28T19:02:47.792Z - User: N/A - Status: INFO - Action: Client connected from ::1:6475 
+2025-05-28T19:02:47.794Z - User: N/A - Status: INFO - Action: Client connected from ::1:6476 
+2025-05-28T19:02:48.851Z - User: N/A - Status: FAILURE - Action: Unknown command: GET / HTTP/1.1
+Host: localhost:3000
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Chromium";v="136", "Google Chrome";v="136", "Not.A/Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-US,en;q=0.9
+If-None-Match: W/"270d-1970c73a065"
+If-Modified-Since: Mon, 26 May 2025 11:56:33 GMT 
+2025-05-28T19:02:48.855Z - User: N/A - Status: ERROR - Action: Socket error: read ECONNRESET 
+2025-05-28T19:02:53.878Z - User: N/A - Status: FAILURE - Action: Unknown command: GET / HTTP/1.1
+Host: localhost:3000
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Chromium";v="136", "Google Chrome";v="136", "Not.A/Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-US,en;q=0.9
+If-None-Match: W/"270d-1970c73a065"
+If-Modified-Since: Mon, 26 May 2025 11:56:33 GMT 
+2025-05-28T19:02:53.882Z - User: N/A - Status: ERROR - Action: Socket error: read ECONNRESET 
+2025-05-28T19:02:53.884Z - User: N/A - Status: INFO - Action: Client connected from ::1:6483 
+2025-05-28T19:02:53.883Z - User: N/A - Status: INFO - Action: Client connected from ::1:6482 
+2025-05-28T19:02:59.487Z - User: N/A - Status: FAILURE - Action: Unknown command: GET / HTTP/1.1
+Host: localhost:3000
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Chromium";v="136", "Google Chrome";v="136", "Not.A/Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-US,en;q=0.9
+If-None-Match: W/"270d-1970c73a065"
+If-Modified-Since: Mon, 26 May 2025 11:56:33 GMT 
+2025-05-28T19:02:59.489Z - User: N/A - Status: ERROR - Action: Socket error: read ECONNRESET 
+2025-05-28T19:02:59.490Z - User: N/A - Status: INFO - Action: Client connected from ::1:6485 
+2025-05-28T19:03:01.038Z - User: N/A - Status: FAILURE - Action: Unknown command: GET / HTTP/1.1
+Host: localhost:3000
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Chromium";v="136", "Google Chrome";v="136", "Not.A/Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-US,en;q=0.9
+If-None-Match: W/"270d-1970c73a065"
+If-Modified-Since: Mon, 26 May 2025 11:56:33 GMT 
+2025-05-28T19:03:01.040Z - User: N/A - Status: ERROR - Action: Socket error: read ECONNRESET 
+2025-05-28T19:03:31.071Z - User: N/A - Status: FAILURE - Action: Unknown command: GET / HTTP/1.1
+Host: localhost:3000
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Chromium";v="136", "Google Chrome";v="136", "Not.A/Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-US,en;q=0.9
+If-None-Match: W/"270d-1970c73a065"
+If-Modified-Since: Mon, 26 May 2025 11:56:33 GMT 
+2025-05-28T19:03:31.073Z - User: N/A - Status: ERROR - Action: Socket error: read ECONNRESET 
+2025-05-28T19:03:31.075Z - User: N/A - Status: INFO - Action: Client connected from ::1:6495 
+2025-05-28T19:03:31.074Z - User: N/A - Status: INFO - Action: Client connected from ::1:6494 
+2025-05-28T19:06:56.448Z - User: N/A - Status: INFO - Action: Disconnected from ::1:6494 
+2025-05-28T19:06:56.451Z - User: N/A - Status: INFO - Action: Disconnected from ::1:6495 
